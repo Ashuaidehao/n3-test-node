@@ -1,0 +1,8 @@
+{
+	"PluginConfiguration": {
+		//test
+		"FlmContract": "0x1415ab3b409a95555b77bc4ab6a7d9d7be0eddbd",
+		"VoteContract": "0xea42dce8f00f69334c8ff824aa4c766db3b5dc92",
+		"TrackDB": "Server=n3-test.mysql.database.azure.com;Database=flamingo3-test;user=n3test@n3-test;password=L8GYxqCqSXheRu2x8J6Y"
+	}
+}
